@@ -1,3 +1,7 @@
+*bak
+*swp
+.DS_Store
+
 # Prerequisites
 *.d
 
